@@ -11,4 +11,7 @@
  *= require products
  *= require product_details
  *= require cart
+ *= require login
+ *= require checkout
+ *= require common
 */
