@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/sohail272/Random.git
-  revision: 03431cce5a05fbe782326bfa2044558fff82305e
+  revision: 9ba3174e1f4e4c92b6f307e41823c2d973041f24
   specs:
     solidus_custom_style (0.1.0)
 
